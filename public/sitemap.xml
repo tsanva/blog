@@ -3,15 +3,26 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://vasant.xyz/blog/posts/</loc>
+    <lastmod>2022-07-31T17:27:26+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://vasant.xyz/blog/posts/test2/</loc>
+    <lastmod>2022-07-31T17:27:26+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://vasant.xyz/blog/</loc>
+    <lastmod>2022-07-31T17:27:26+07:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://vasant.xyz/blog/categories/</loc>
   </url>
   
   <url>
     <loc>https://vasant.xyz/blog/tags/</loc>
-  </url>
-  
-  <url>
-    <loc>https://vasant.xyz/blog/</loc>
   </url>
   
 </urlset>
