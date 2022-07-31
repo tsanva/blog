@@ -1,4 +1,4 @@
-baseURL = "https://vasant.xyz/blog/"
+baseURL = "https://vasant.xyz/blog"
 languageCode = "en-us"
 title = "vasant blog"
 theme = "sk2"
