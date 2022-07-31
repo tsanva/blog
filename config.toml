@@ -1,3 +1,11 @@
-baseURL = "http://example.org/"
+baseURL = "https://vasant.xyz/blog/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "vasant blog"
+theme = "sk2"
+
+[Params]
+mainSections = "posts"
+# startdate = "2022-31-07"
+# subtitle = ""
+summary = true
+toc = true
