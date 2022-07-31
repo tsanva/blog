@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on vasant blog</title>
+    <link>https://vasant.xyz/blog/posts/</link>
+    <description>Recent content in Posts on vasant blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 31 Jul 2022 17:27:26 +0700</lastBuildDate>
+    
+	<atom:link href="https://vasant.xyz/blog/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Test2</title>
+      <link>https://vasant.xyz/blog/posts/test2/</link>
+      <pubDate>Sun, 31 Jul 2022 17:27:26 +0700</pubDate>
+      
+      <guid>https://vasant.xyz/blog/posts/test2/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
